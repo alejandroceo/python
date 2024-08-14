@@ -4,8 +4,11 @@
 
 Resumen:
 
-	 ## virtualenv: Buena opción para personalización y proyectos con diferentes versiones de Python.
+  virtualenv: Buena opción para personalización y proyectos con diferentes versiones de Python.
+
+  venv: Ideal para la mayoría de los proyectos con Python 3.3+ debido a su simplicidad.
+
+ pipenv: Recomendada para la gestión completa del proyecto, incluyendo entornos virtuales y dependencias.
+
   
-	 ## venv: Ideal para la mayoría de los proyectos con Python 3.3+ debido a su simplicidad.
-  
-	 pipenv: Recomendada para la gestión completa del proyecto, incluyendo entornos virtuales y dependencias.
+       
