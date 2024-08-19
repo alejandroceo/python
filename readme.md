@@ -29,6 +29,8 @@ Resumen:
 
   En macOS/Linux: source myenv/bin/activate
 
+  Deactivate para Salir de los entornos virtuales
+
 -----------------
 
  * pipenv: Recomendada para la gestión completa del proyecto, incluyendo entornos virtuales y dependencias.
