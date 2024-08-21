@@ -61,5 +61,9 @@ Resumen:
 	
  •	pipenv: Recomendada para la gestión completa del proyecto, incluyendo entornos virtuales y dependencias
 
-  
+  ----
+
+  Comando para Eliminar un Entorno Virtual:
+
+  rm -rf /ruta/al/entorno_virtual
        
